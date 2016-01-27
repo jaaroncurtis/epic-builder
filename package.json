@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "app for building epic stories",
   "main": "server.js",
-  "repository": "",
+  "repository": "https://github.com/jaaroncurtis/epic-builder.git",
   "author": "James A. Curtis <jaaroncurtis@gmail.com>",
   "dependencies": {
     "async": "^1.0.0",
